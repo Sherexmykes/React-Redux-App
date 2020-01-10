@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react'
 import {connect} from 'react-redux'
-//import {fetchData} from '../actions'
+import {fetchData} from '../actions'
 import TeamCard from './teamCard'
 
 
